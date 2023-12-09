@@ -8,7 +8,11 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tanishaislam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<br/>
+
+## Current Stats
+![GitHub streak stats](https://streak-stats.demolab.com/?user=tanishaislam)  
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -75,8 +79,6 @@
 
 <br/> 
 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=tanishaislam)  
 
 
 <!--
