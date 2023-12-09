@@ -5,6 +5,14 @@
 <img src="https://i.ibb.co/D1yKdT7/githubprofile-Background.png" />
 </a>
 
+## About Me
+- 🔭 I’m currently working on react, express.js, node etc. 
+- 🌱 I’m currently learning Next.js 
+- 👯 I’m looking to collaborate on every junior devoloper 
+- 💬 Ask me about Html, react, tailwind. 
+- 📫 How to reach me: (dev.eva.2006@gmail.com) 
+- ⚡ Fun fact: I am funny.😁 
+<br/>
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tanishaislam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
