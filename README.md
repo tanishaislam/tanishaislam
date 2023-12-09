@@ -74,7 +74,10 @@
   
 
 <br/> 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tanishaislam)  
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=tanishaislam)  
+
 
 <!--
 **tanishaislam/tanishaislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
