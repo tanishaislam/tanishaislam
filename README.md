@@ -1,9 +1,9 @@
 ### Hi 👋 I am Eva 
-### Web devoloper
-
+### Web developer
 <a href="https://www.facebook.com/mirhussainmurtaza/">
 <img src="https://i.ibb.co/D1yKdT7/githubprofile-Background.png" />
 </a>
+
 
 ## About Me
 - 🔭 I’m currently working on react, express.js, node etc. 
